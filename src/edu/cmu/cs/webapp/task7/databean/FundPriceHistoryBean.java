@@ -31,3 +31,4 @@ public class FundPriceHistoryBean implements Comparable<FundPriceHistoryBean> {
 		return 0;
 	}
 }
+
